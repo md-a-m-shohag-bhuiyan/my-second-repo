@@ -2,5 +2,7 @@ p {
   color: navy;
 }
 h1 {
-  color: olive green;
+  color: green;
+  background-color: yellow;
+  text-align: center;
 }
